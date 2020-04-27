@@ -1,20 +1,21 @@
-q(uantized)ringbuf(fer)
+Repository Name
 =======================
 
-> A thread-safe variant of a classic circular buffer with a double-twist
+> Repository tagline
 
-qringbuf is a circular buffer variant, similar to (but not a derivative of)
-[Bip Buffer][1] and [spsc-bip-buffer/bbqueue][2]. Use this when multiple
-clients require protection from under-reads in addition to all reads being
-contiguous byte ranges.
+A longer repository description.
 
 ## Documentation
 
-https://pkg.go.dev/github.com/ipfs/go-qringbuf
+[Insert link to documentation]() or expand with Install, Build, Usage sections.
 
 ## Lead Maintainer
 
-[Peter Rabbitson](https://github.com/ribasushi)
+[Your name](https://github.com/alinktoyourname)
+
+## Contributing
+
+Contributions are welcome! This repository is part of the IPFS project and therefore governed by our [contributing guidelines](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md).
 
 ## License
 
