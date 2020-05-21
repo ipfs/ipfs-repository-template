@@ -20,6 +20,3 @@ Contributions are welcome! This repository is part of the IPFS project and there
 ## License
 
 [SPDX-License-Identifier: Apache-2.0 OR MIT](LICENSE.md)
-
-[1]: https://www.codeproject.com/Articles/3479/The-Bip-Buffer-The-Circular-Buffer-with-a-Twist
-[2]: https://andrea.lattuada.me/blog/2019/the-design-and-implementation-of-a-lock-free-ring-buffer-with-contiguous-reservations.html
