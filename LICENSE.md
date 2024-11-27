@@ -10,7 +10,7 @@ contributors, licensed under the `Permissive License Stack` meaning either of:
 You may not use the contents of this repository except in compliance
 with one of the listed Licenses. For an extended clarification of the
 intent behind the choice of Licensing please refer to
-https://protocol.ai/blog/announcing-the-permissive-license-stack/
+[Permissive License Stack](https://web.archive.org/web/20241127162157/https://www.protocol.ai/blog/announcing-the-permissive-license-stack/).
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the terms listed in this notice is distributed on
